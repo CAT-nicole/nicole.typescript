@@ -1,0 +1,2 @@
+# nicole.typescript
+ts learning
